@@ -7,6 +7,7 @@
         "enketo-widget/time/timepicker-extended",
         "enketo-widget/date/datepicker-extended",
         "enketo-widget/datetime/datetimepicker-extended",
+        "enketo-widget/geopoint-gmaps/geopointpicker",
         "enketo-widget/mediagrid/mediagridpicker",
         "enketo-widget/select-likert/likertitem"
     ],
